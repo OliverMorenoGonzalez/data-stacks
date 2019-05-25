@@ -1,5 +1,5 @@
 ---
-layout: tutorial en espñol sobre Presto
+layout: post
 title:  "Un SQL para gobernarlos a todos"
 categories: [tutorial, presto, motor, sql, español]
 tags: [apache, starburstdata, introduccion]
