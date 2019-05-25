@@ -12,4 +12,7 @@ English/Spanish.
 If you are in the repository You can use the [Link to my GitHub Page Here](https://olivermorenogonzalez.github.io/data-stacks/) to visit it.
 
 Tutorials about tech related with Duck project repository.
-[Link to project](https://github.com/OliverMorenoGonzalez/DUCK)
+[Link to DUCK project](https://github.com/OliverMorenoGonzalez/DUCK)
+
+Tutoriales Español:
+[Presto SQL introducción](https://olivermorenogonzalez.github.io/data-stacks/2019/05/25/presto-motor-sql)
