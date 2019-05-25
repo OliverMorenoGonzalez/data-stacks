@@ -1,8 +1,5 @@
----
-title:  "Un SQL para gobernarlos a todos"
-categories: [tutorial, presto, motor, sql, español]
-tags: [apache, starburstdata, introduccion]
----
+layout: post
+title:  Presto Motor SQL para gobernarlos a todos
 
 # Un único SQL para gobernarlos a todos
 
