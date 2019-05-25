@@ -1,6 +1,3 @@
-layout: post
-title:  Presto Motor SQL para gobernarlos a todos
-
 # Un único SQL para gobernarlos a todos
 
 Aqui hablaremos sobre Apache Presto y la versión de Presto de Starburstdata.
