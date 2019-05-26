@@ -32,7 +32,7 @@ La versión para la comunidad será la que usaremos.
 
 En Presto Motor SQL tienes un coordinador (el cerebro) y múltiples trabajadores/actuadores para procesar consultas.
 
-El coordinador acepta sentencias de SQL provenientes del cliente y parase, planea y agenda como las sentencias de SQL serán procesadas cuando ese proceso termina los trabajadores/actuadores entran en acción.
+El coordinador acepta sentencias de SQL provenientes del cliente y parsea, planea y agenda como las sentencias de SQL serán procesadas cuando ese proceso termina los trabajadores/actuadores entran en acción.
 
 Los trabajadores/actuadores leen los datos de fuentes de datos y las combinan en un único proceso que es devuelto al cliente.
 
