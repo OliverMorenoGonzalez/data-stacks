@@ -16,9 +16,9 @@ I am going to use the Presto version from Starburstdata because its Docker Image
 1) SQL over any data source using connectors avalaible (there are a lot) or creating connectors. There isn't more need for different SQL implementation. 
 "One SQL to rule them all."
 
-2) Separation of Storage aand Compute. This allow easily scale base in yopur analytics need, saving tons of money.
+2) Separation of Storage and Compute. This allow easily scale base in your analytics need, saving tons of money.
 
-3) Deploy anywhere, on clouds, local o virtualized environments.
+3) Deploy anywhere, on clouds, local or virtualized environments.
 
 4) SQL with new operations (extended) and create with performance philosophy first.
 
