@@ -15,4 +15,10 @@ Tutorials about tech related with Duck project repository.
 [Link to DUCK project](https://github.com/OliverMorenoGonzalez/DUCK)
 
 Tutoriales Español:
-[Presto SQL introducción](https://olivermorenogonzalez.github.io/data-stacks/2019/05/25/presto-motor-sql)
+
+[Presto Motor SQL introducción](https://olivermorenogonzalez.github.io/data-stacks/2019/05/25/presto-motor-sql)
+
+
+Tutorials English:
+
+[Presto SQL Engine introduction](https://olivermorenogonzalez.github.io/data-stacks/2019/05/26/presto-sql-engine)
