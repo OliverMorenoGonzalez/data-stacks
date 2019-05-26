@@ -18,11 +18,11 @@ I am going to use the Presto version from Starburstdata because its Docker Image
 
 2) Separation of Storage aand Compute. This allow easily scale base in yopur analytics need, saving tons of money.
 
-3) Deploy anywhere, on pclouds, local o virtualized environments.
+3) Deploy anywhere, on clouds, local o virtualized environments.
 
 4) SQL with new operations (extended) and create with performance philosophy first.
 
-5) Easy to isntall and debug.
+5) Easy to install and debug.
 
 6) High security and It is possible configure it.
 
