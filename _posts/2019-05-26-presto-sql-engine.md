@@ -1,15 +1,15 @@
 # One SQL to rule them all.
 
-We are going to talk about Apache Presto and Presto version from Starburstdata.
+We are going to talk about PrestoSQL.
 This tutorial is a friendly introduction, without too much deep tech terms later I will prepare a large version.
 
-Apache Presto is a SQL Engine, It is use for queries across different data sources, high performance queries over gigabytes and petabytes of data.It is ideal for Big Data.
+Presto is a SQL Engine, It is use for queries across different data sources, high performance queries over gigabytes and petabytes of data. It is ideal for Big Data.
 
 Presto was designed to handle data warehousing and analytics: data analysis, aggregating large amounts of data and producing reports. These workloads are often classified as Online Analytical Processing (OLAP).
 
 Presto was not designed to handle Online Transaction Processing (OLTP).
 
-I am going to use the Presto version from Starburstdata because its Docker Image is perfect, fast configuration and start playing around with Presto.
+I am going to use the oficial PrestoSQL Docker Image.
 
 ## Advantages of Presto:
 
@@ -26,7 +26,7 @@ I am going to use the Presto version from Starburstdata because its Docker Image
 
 6) High security and It is possible configure it.
 
-# Architecture Apche Presto SQL Engine.
+# Architecture PrestoSQL.
 
 In Presto you have one coordinator (the brain) and multiple workers for query processing.
 
@@ -36,7 +36,7 @@ Workers read data from data sources and finally combine them into one process wh
 
 Presto have a metadata API (one component of Coordinator) to understand the relations from your data sources (How Data is been store in each source) and translate it to use the data, after this is done the rest of execution is agnostic to your data source.
 
-## More advantages of Apache Presto:
+## More advantages of PrestoSQL:
 
 1) Community driven open source project.
 
@@ -46,4 +46,4 @@ Presto have a metadata API (one component of Coordinator) to understand the rela
 
 4) High performance ANSI SQL enine.
 
-Next tutorial: Hands on Presto and practise
+Next tutorial: Hands on PrestoSQL and practise
